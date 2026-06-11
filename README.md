@@ -21,7 +21,7 @@ The dataset contains order-level information, including:
 
 ## Business Context
 
-Noon Food launched its food delivery service, and management wants to understand:
+Noon Food launched its food delivery service in Dubai, and now management wants to understand:
 
 * How customers are being acquired
 * Whether customers are returning
